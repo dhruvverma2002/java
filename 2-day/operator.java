@@ -20,6 +20,14 @@ public class operator {
         int d = a--;
         System.out.println(a);
         System.out.println(d);
+
+        // Relational operator
+        System.out.println((a==b));
+        System.out.println((a!=b));
+        System.out.println((a>b));
+        System.out.println((a<b));
+        System.out.println((a>=b));
+        System.out.println((a<=b));
     }
 }
 
@@ -30,7 +38,7 @@ public class operator {
             // Unary  { ++ ,  -- }
                     // pre Increment eg:- ++a  1st (value change) 2nd (vlaue use)
                     // post Increment eg:- a++ 1st (vlaue use) 2nd (value change)
-//     Relational operator
+//     Relational operator { == , != , > , < , >= , <= }
 //     Logical operator
 //     Bitwise operator
 //     Assingnment operator
