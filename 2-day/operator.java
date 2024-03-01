@@ -28,6 +28,21 @@ public class operator {
         System.out.println((a<b));
         System.out.println((a>=b));
         System.out.println((a<=b));
+
+        // Logical operator { && , || , ! }
+        // &&
+        System.out.println(true && true);
+        System.out.println(true && false);
+        System.out.println(false && true);
+        System.out.println(false && false);
+        // ||
+        System.out.println(true || true);
+        System.out.println(true || false);
+        System.out.println(false || true);
+        System.out.println(false || false);
+        // !
+        System.out.println(!true);
+        System.out.println(!false);
     }
 }
 
@@ -39,7 +54,7 @@ public class operator {
                     // pre Increment eg:- ++a  1st (value change) 2nd (vlaue use)
                     // post Increment eg:- a++ 1st (vlaue use) 2nd (value change)
 //     Relational operator { == , != , > , < , >= , <= }
-//     Logical operator
+//     Logical operator { && , || , ! }
 //     Bitwise operator
 //     Assingnment operator
 
