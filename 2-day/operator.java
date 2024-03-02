@@ -43,6 +43,14 @@ public class operator {
         // !
         System.out.println(!true);
         System.out.println(!false);
+
+        // Assingnment operator
+        System.out.println(a=b);
+        System.out.println(a+=b);
+        System.out.println(a-=b);
+        System.out.println(a*=b);
+        System.out.println(a/=b);
+
     }
 }
 
