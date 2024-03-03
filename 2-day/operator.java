@@ -64,5 +64,4 @@ public class operator {
 //     Relational operator { == , != , > , < , >= , <= }
 //     Logical operator { && , || , ! }
 //     Bitwise operator
-//     Assingnment operator
-
+//     Assingnment operator { = , += , -= , *= , /= }
