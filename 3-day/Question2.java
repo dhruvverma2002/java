@@ -7,5 +7,6 @@ public class Question2 {
             System.out.println("You do have a fever");
         else
             System.out.println("You don't have a fever");
+            
     }
 }

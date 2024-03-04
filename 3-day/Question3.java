@@ -31,5 +31,4 @@ public class Question3 {
                 break;
         }
     }
-    
 }
