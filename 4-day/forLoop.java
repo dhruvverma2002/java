@@ -6,7 +6,8 @@ public class forLoop{
             System.out.print("N :- " );
             int n =  s.nextInt();
             for (int i = 1; i <= n;i++) {
-            System.out.print(i + " ");
+            System.out.print(i + " ");  
+            
         }
     }    
 }
